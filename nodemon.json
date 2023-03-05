@@ -1,0 +1,12 @@
+{
+    "env": {
+        "MONGO_USER": "feixiao",
+        "MONGO_PASSWORD": "",
+        "MONGO_DB": "BloxPlayerReviews",
+        "JWT_KEY": "",
+        "GOOGLE_API_KEY": "",
+        "AWS_SECRET_ACCESS_KEY_ID": "AKIA5FSNIYEEH56V566Q",
+        "AWS_SECRET_ACCESS_KEY": "",
+        "AWS_REGION" : ""
+    }
+}
